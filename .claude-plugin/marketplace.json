@@ -1,0 +1,16 @@
+{
+  "name": "claude-la-ruche",
+  "description": "Claude Code skills for the La Ruche HPC cluster at Paris-Saclay / Mésocentre",
+  "owner": {
+    "name": "Jaouedi Ilyes",
+    "github": "IlyesJaouedi"
+  },
+  "plugins": [
+    {
+      "name": "la-ruche",
+      "description": "HPC assistant for La Ruche cluster — SSH, SLURM, GPU jobs, modules, storage, and deep learning workflows.",
+      "source": ".",
+      "tags": ["HPC", "SLURM", "GPU", "Paris-Saclay", "cluster"]
+    }
+  ]
+}

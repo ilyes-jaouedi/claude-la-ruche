@@ -1,0 +1,14 @@
+{
+  "name": "la-ruche",
+  "version": "1.0.0",
+  "description": "HPC assistant for La Ruche cluster at Paris-Saclay / Mésocentre. Covers SSH access, SLURM job submission, GPU partitions, module system, storage management, and common deep learning workflows.",
+  "author": {
+    "name": "Jaouedi Ilyes",
+    "email": "ilyesjaouadi0@gmail.com",
+    "github": "https://github.com/IlyesJaouedi"
+  },
+  "keywords": ["HPC", "SLURM", "Paris-Saclay", "GPU", "cluster", "la-ruche", "mesocentre"],
+  "skills": "../skills/",
+  "homepage": "https://github.com/IlyesJaouedi/claude-la-ruche",
+  "license": "MIT"
+}
