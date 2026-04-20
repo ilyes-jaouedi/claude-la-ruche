@@ -21,7 +21,7 @@ Invoke `/la-ruche` followed by your task and Claude will assist you with:
 Inside Claude Code:
 
 ```
-/plugin marketplace add IlyesJaouedi/claude-la-ruche
+/plugin marketplace add https://github.com/ilyes-jaouedi/claude-la-ruche
 /plugin install la-ruche@claude-la-ruche
 ```
 
