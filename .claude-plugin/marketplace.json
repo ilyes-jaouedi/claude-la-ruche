@@ -9,7 +9,7 @@
     {
       "name": "la-ruche",
       "description": "HPC assistant for La Ruche cluster — SSH, SLURM, GPU jobs, modules, storage, and deep learning workflows.",
-      "source": "../",
+      "source": "./",
       "tags": ["HPC", "SLURM", "GPU", "Paris-Saclay", "cluster"]
     }
   ]
